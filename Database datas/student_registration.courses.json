@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "66518672e839b1df28633e69"
+  },
+  "registration": "9788258657",
+  "courses": [
+    "Computer Science",
+    "Software Engineering",
+    "Nuclear Engineering",
+    "Cybersecurity"
+  ],
+  "__v": 0
+}]

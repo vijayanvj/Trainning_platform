@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66507d53f137448baad28cd4"
+  },
+  "name": "vijay",
+  "email": "vjdvnt@gmail.com",
+  "phone": "9788258657",
+  "password": "9788258657",
+  "address": "coimbatore",
+  "registration": "9788258657",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650c30f1e802b6eef6152f3"
+  },
+  "name": "vijaykumar",
+  "email": "vijaymaha048@gmail.com",
+  "phone": "7010244672",
+  "password": "7010244672",
+  "address": "coimbatore",
+  "registration": "7010244672",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650c73e1e802b6eef615332"
+  },
+  "name": "zcc",
+  "email": "scs@gmail.com",
+  "phone": "6544645",
+  "password": "654654",
+  "address": "dvdvwd",
+  "registration": "654654654",
+  "__v": 0
+}]

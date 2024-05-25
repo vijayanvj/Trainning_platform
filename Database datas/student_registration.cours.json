@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6650870d58e90c6c86bf15a5"
+  },
+  "courseName": "Petroleum Engineering.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650874b58e90c6c86bf15ab"
+  },
+  "courseName": "Cybersecurity",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650875258e90c6c86bf15ad"
+  },
+  "courseName": "Nuclear Engineering",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650875758e90c6c86bf15af"
+  },
+  "courseName": "Software Engineering",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66508b6458e90c6c86bf160f"
+  },
+  "courseName": "Physics",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650cf851e802b6eef615374"
+  },
+  "courseName": "Computer Science",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650cf951e802b6eef615376"
+  },
+  "courseName": "Chemistry",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650cf9e1e802b6eef615378"
+  },
+  "courseName": "Economics",
+  "__v": 0
+}]
